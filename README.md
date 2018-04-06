@@ -7,5 +7,5 @@ This tool creates a docker image with compiled Qt. Qt is compiled in VM (vagrant
 ![diagram](pic.png)
 
 ### How to run it?
-- `sudo ./build.sh`
-- or use described steps from this script
+1. Install Docker, Vagrant and VirtualBox.
+2. Run `sudo ./build.sh` or use described steps from this script.
